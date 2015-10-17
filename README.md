@@ -40,7 +40,7 @@ Note: All moments of inertia are with respect to the section's geometric centroi
 
 ## Download
 
-Clone the repository on your computer. The following downloads `moorprop` folder:
+Clone the repository on your computer. The following downloads `secprop` folder:
 
 	git clone https://github.com/ckunte/secprop.git
 
