@@ -1,7 +1,5 @@
 # secprop
 
-[![Build Status](https://travis-ci.org/ckunte/secprop.svg?branch=master)](https://travis-ci.org/ckunte/secprop)
-
 `secprop` is a simple python script set for calculating geometric section properties of tubes and prismatic sections, viz., hollow box, channel, I (Equal), and T sections.
 
 ### Axes, Conventions:
